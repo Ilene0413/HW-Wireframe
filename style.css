@@ -1,0 +1,103 @@
+/**
+    * HW-Wireframe stylesheet
+**/
+
+
+* {
+    text-align: center;
+    background: #ebebeb;
+    box-sizing: border-box;
+            }
+/** 
+    * body style
+**/
+
+body {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 75px;
+    }
+
+
+/** 
+    * aside style
+**/
+
+aside {
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 176px;
+    padding-right: 50px;
+    width: 40%;
+    overflow: auto;
+    
+       }
+
+/**
+   * footer style
+**/
+
+   footer {
+        clear: both;
+        }
+
+/** 
+    * container class for header, nav, and footer
+**/
+
+.container {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;}
+
+   
+/** 
+  * h1 and para style
+**/
+.h1para {
+    margin: 10px;
+    padding: 10px;
+    color: #777;
+    background: #ebebeb; 
+}
+
+#full {
+    width: 455px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+  }
+
+
+/**
+   * article style
+**/
+
+#article {
+    color: #ebebeb;
+    background: #777;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+        }
+
+
+
+
